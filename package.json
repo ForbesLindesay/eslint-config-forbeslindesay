@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-forbeslindesay",
+  "version": "1.0.0",
+  "description": "ESLint default settings to match my personal preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForbesLindesay/eslint-config-forbeslindesay.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint-plugin-react": "^3.13.1"
+  }
+}
