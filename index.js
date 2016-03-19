@@ -39,6 +39,8 @@ module.exports = {
     'no-alert': [2],
     'no-caller': [2],
     'no-empty-label': [2],
+    'no-labels': [2, {allowLoop: true, allowSwitch: true}],
+    'no-unused-labels': [2],
     'no-empty-pattern': [2],
     'no-extend-native': [2],
     'no-extra-bind': [2],
