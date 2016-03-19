@@ -124,7 +124,6 @@ module.exports = {
     'space-before-function-paren': [2, {anonymous: 'always', named: 'never'}],
     'space-in-parens': [2, 'never'],
     'space-infix-ops': [2],
-    'space-return-throw-case': [2],
     'space-unary-ops': [2, {words: true, nonwords: false}],
     'spaced-comment': [2, 'always', {exceptions: ['*']}],
 
