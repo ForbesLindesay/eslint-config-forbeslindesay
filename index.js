@@ -38,7 +38,6 @@ module.exports = {
     'eqeqeq': [2, 'allow-null'],
     'no-alert': [2],
     'no-caller': [2],
-    'no-empty-label': [2],
     'no-labels': [2, {allowLoop: true, allowSwitch: true}],
     'no-unused-labels': [2],
     'no-empty-pattern': [2],
