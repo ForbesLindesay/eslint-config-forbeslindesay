@@ -32,7 +32,6 @@ module.exports = {
     // best practices
     'accessor-pairs': [2],
     'block-scoped-var': [2],
-    'consistent-return': [2],
     'curly': [2, 'multi-line'],
     'dot-location': [2, 'property'],
     'eqeqeq': [2, 'allow-null'],
