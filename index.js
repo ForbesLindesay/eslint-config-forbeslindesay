@@ -1,5 +1,5 @@
 module.exports = {
-  parser: require('babel-eslint'),
+  parser: require.resolve('babel-eslint'),
   rules: {
     // possible errors
     'comma-dangle': [2, 'always-multiline'],
