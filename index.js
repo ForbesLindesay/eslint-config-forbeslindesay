@@ -1,8 +1,5 @@
 module.exports = {
-  parser: 'babel-eslint',
-  plugins: [
-    'react',
-  ],
+  parser: require('babel-eslint'),
   rules: {
     // possible errors
     'comma-dangle': [2, 'always-multiline'],
