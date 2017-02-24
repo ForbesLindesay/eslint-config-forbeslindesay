@@ -17,6 +17,6 @@
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {
-    "babel-eslint": "^6.0.4"
+    "babel-eslint": "^7.1.1"
   }
 }
